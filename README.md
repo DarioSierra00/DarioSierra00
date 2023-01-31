@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dario Sierra</h1>
 <h3 align="center">Future Web Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dariosierra00&label=Profile%20views&color=0e75b6&style=flat" alt="dariosierra00" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
