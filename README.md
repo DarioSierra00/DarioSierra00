@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dario Sierra</h1>
 <div align="center">
-<img src="https://DarioSierra.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 <h3 align="center">Future Web Developer</h3>
